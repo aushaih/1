@@ -9,11 +9,17 @@
 [Customer Approach](#Approach)  
 [Customer Experience](#Experience)  
 [What are your strengths?](#strengths) 
+
 [What’s your weakness?](#weakness) 
+
 [How do you handle Pressure](#Pressure) 
+
 [Hard Fast Decision](#Decision) 
+
 [Proud of Yourself](#Proud)
+
 [Rejection](#Rejection)
+
 [Bad Rate](#Bad)
 
 

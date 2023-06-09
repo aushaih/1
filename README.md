@@ -2,7 +2,7 @@
 
 
 ##### Table of Contents  
-[Tell me about you](#Tell me about you)  
+[Tell me about you](#about)  
 [Emphasis](#emphasis)  
 [why apple](#apple)  
 [Customer](#Customer)  
@@ -15,7 +15,7 @@ the headers mean its good
 ## Emphasis
 its also mean to be good
 
-## apple
+## about
 becoust i want to make sure i woud bee 
 
 ## Customer 

@@ -55,7 +55,7 @@ and here we are
 
 
 ## Description
-I wii be responsible for crafting an extraordinary experience, and will help build a network of committed Apple customers. 
+I will be responsible for crafting an extraordinary experience, and will help build a network of committed Apple customers. 
 In addition, you’ll encourage our retail partner’s staff through your forward-thinking style, love for technology, and passion about Apple
 dynamic leader, business manager and influencer
 The role's purpose is to grow the Apple product

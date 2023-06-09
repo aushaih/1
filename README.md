@@ -12,6 +12,8 @@
 
 [What’s your weakness?](#weakness) 
 
+[Problem](#Problem) 
+
 [How do you handle Pressure](#Pressure) 
 
 [Hard Fast Decision](#Decision) 
@@ -150,6 +152,12 @@ And I close a deal with them
 And after that they come back and buy from us 30 tracks
 And every 4 -6 months they buy from us again 
 The company becomes one of the key account that we have 
+
+## Problem
+Customer service was receiving a significant number of complaints about stock arriving way too late.
+I reviewed our delivery schedule then met with the staff involved in the customer delivery process.
+We identified that the problem seemed to be that the orders for stock were not being processed fast enough. I recommended a change in our data entry system and regular follow-up with customers was added to the process.
+This solved the late delay problem and ensured customers felt their needs
 
 
 ## Proud

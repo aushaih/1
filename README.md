@@ -24,15 +24,11 @@
 
 [Bad Rate](#Bad)
 
-[apple](#news)
-
 
 <a name="headers"/>
 
 ## introduction
-My name is hussain yousif aushaih 
-I’m 31 years old 
-i have a Bachelor's Degree in business Administration in Arab Open University 
+My name is 
 
 I have about 8 years of experience most of it in sales & customers services  
 
@@ -189,13 +185,7 @@ Also we will follow up with the team about this client's account and history and
 And we can reached out to the client
 And know more about it and we want to help and to remind him to provide and honest feedback ,
 
-## news
-Apple Vision Pro - beyond the boundaries of a traditional display
-iOS 17, - updates to Phone, FaceTime, Messages, and more give users new ways to express themselves,
-15-inch MacBook Air - M2, and up to 18 hours of battery life,
-Mac Studio - With M2 Max and the new M2 Ultra, Mac Studio provides a big boost in performance
-A Milestone Update for Apple Watch
-FaceTime Comes to Apple TV 4K
+
 
 
 
